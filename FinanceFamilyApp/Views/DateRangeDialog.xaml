@@ -1,0 +1,65 @@
+﻿<Window x:Class="FinanceFamilyApp.Views.DateRangeDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Выбор периода отчета"
+        Height="250"
+        Width="400"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Начальная дата -->
+        <TextBlock Grid.Row="0" 
+                   Text="Начальная дата:" 
+                   Margin="0,0,0,5"/>
+        <DatePicker Grid.Row="1" 
+                    SelectedDate="{Binding StartDate}"
+                    Height="35" 
+                    Margin="0,0,0,15"/>
+
+        <!-- Конечная дата -->
+        <TextBlock Grid.Row="2" 
+                   Text="Конечная дата:" 
+                   Margin="0,0,0,5"/>
+        <DatePicker Grid.Row="3" 
+                    SelectedDate="{Binding EndDate}"
+                    Height="35" 
+                    Margin="0,0,0,15"/>
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="5" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right">
+            <Button Content="ОК" 
+                    Width="80" 
+                    Height="35" 
+                    Margin="0,0,10,0"
+                    Command="{Binding OkCommand}" 
+                    IsDefault="True"
+                    Background="#27ae60" 
+                    Foreground="White"
+                    FontWeight="SemiBold"/>
+
+            <Button Content="Отмена" 
+                    Width="80" 
+                    Height="35"
+                    Command="{Binding CancelCommand}" 
+                    IsCancel="True"
+                    Background="#e74c3c" 
+                    Foreground="White"
+                    FontWeight="SemiBold"/>
+        </StackPanel>
+
+        <!-- Пустое пространство -->
+        <Border Grid.Row="4"/>
+    </Grid>
+</Window>

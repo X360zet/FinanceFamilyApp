@@ -1,0 +1,1330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\categorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\categorywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\budgetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\budgetwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\daterangedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\daterangedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\edittransactionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\edittransactionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\expensewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\expensewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\incomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\incomewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\familymemberwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\familymemberwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\budgetmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\budgetmanagementwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\incomeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\incomeformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\expenseformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\expenseformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\edittransactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\edittransactionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\stringformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\stringformatconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\familymemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\familymemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\budgetmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\budgetmanagementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\decimaltocurrencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\decimaltocurrencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\familymemberwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\familymemberwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\incomecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\incomecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\budgetalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\budgetalert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.entities\\entities\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{833A5BB0-27E2-4A77-8884-3811D62779DE}|FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj|solutionrelative:financefamilyapp.entities\\entities\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\exceptions\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\exceptions\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\exceptions\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\reportitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\reportitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\incomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\incomedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\financialsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\financialsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\expensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\categoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\categoryreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\budgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\dto\\budgetalertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\dto\\budgetalertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\incomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\incomewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\expensewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\expensewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\edittransactionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\edittransactionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\daterangedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\daterangedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\categorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\categorywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\budgetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\budgetwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\views\\budgetmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\views\\budgetmanagementwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\daterangedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\daterangedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\chartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\chartsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\viewmodels\\budgetformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\viewmodels\\budgetformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\typetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\typetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\roletocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\comparisonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\comparisonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\colortobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\booleantobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\booleantobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\converters\\balancetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\converters\\balancetobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.dal\\financefamilyapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30B1A3BB-4156-40D3-8D99-176C6E3B0176}|FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj|solutionrelative:financefamilyapp.dal\\financefamilyapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp\\financefamilyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13CC080E-5093-4A51-9CA1-D4BBCC7D7382}|FinanceFamilyApp\\FinanceFamilyApp.csproj|solutionrelative:financefamilyapp\\financefamilyapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VS company\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|c:\\users\\user\\source\\repos\\financefamilykursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\financefamilyapp.bll\\financefamilyapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F399FCB-ACB8-4403-84B4-790C7EFC61D5}|FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj|solutionrelative:financefamilyapp.bll\\financefamilyapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\ExpenseWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\ExpenseWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\ExpenseWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\ExpenseWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T19:12:34.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTransactionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\EditTransactionWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\EditTransactionWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\EditTransactionWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\EditTransactionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T02:46:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateRangeDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\DateRangeDialog.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\DateRangeDialog.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\DateRangeDialog.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\DateRangeDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-12T23:59:57.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\BudgetWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\BudgetWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T19:12:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\CategoryWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\CategoryWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\CategoryWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\CategoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T12:55:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T14:55:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T00:47:05.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IncomeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\IncomeWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\IncomeWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\IncomeWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\IncomeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-10T19:12:07.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FamilyMemberWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T01:09:01.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BudgetManagementWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-14T20:11:00.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\ReportService.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:09:51.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\FinanceService.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\Services\\FinanceService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\FinanceService.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\Services\\FinanceService.cs",
+              "ViewState": "AgIAAAwFAAAAAAAAAAAuwBcFAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:09:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IncomeFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\IncomeFormViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\IncomeFormViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\IncomeFormViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\IncomeFormViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:11:09.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExpenseFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ExpenseFormViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\ExpenseFormViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ExpenseFormViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\ExpenseFormViewModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:11:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditTransactionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\EditTransactionViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\EditTransactionViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\EditTransactionViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\EditTransactionViewModel.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwIcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:46:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StringFormatConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\StringFormatConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\StringFormatConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\StringFormatConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\StringFormatConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:42:14.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FamilyMemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\FamilyMemberViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\FamilyMemberViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\FamilyMemberViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\FamilyMemberViewModel.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAUwOoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:05:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BudgetManagementViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\BudgetManagementViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\BudgetManagementViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\BudgetManagementViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\BudgetManagementViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAUwFgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:10:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:44:03.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAUwAQBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:12:34.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DecimalToCurrencyConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\DecimalToCurrencyConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\DecimalToCurrencyConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\DecimalToCurrencyConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\DecimalToCurrencyConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:12:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FamilyMemberWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\FamilyMemberWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:09:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\User.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:02:22.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IncomeCategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\IncomeCategory.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\IncomeCategory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\IncomeCategory.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\IncomeCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:03:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Income.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\Income.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Income.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\Income.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:04:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Family.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Family.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\Family.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Family.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\Family.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:02:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FamilyMember.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\FamilyMember.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\FamilyMember.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\FamilyMember.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\FamilyMember.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:02:54.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\ExpenseCategory.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\ExpenseCategory.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:03:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Expense.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:04:46.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BudgetAlert.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\BudgetAlert.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\BudgetAlert.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\BudgetAlert.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\BudgetAlert.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:05:13.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Budget.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.Entities\\Entities\\Budget.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.Entities\\Entities\\Budget.cs",
+              "RelativeToolTip": "FinanceFamilyApp.Entities\\Entities\\Budget.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:05:00.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAxwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:07:11.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:06:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:06:22.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:06:37.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAowP4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:06:06.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Services\\AuthService.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:46:12.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatabaseConnectionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionService.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionService.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:56:22.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatabaseConnectionException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionException.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionException.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\Exceptions\\DatabaseConnectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:10:15.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\TransactionDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:08:46.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReportItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\ReportItemDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\ReportItemDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\ReportItemDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\ReportItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:08:29.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\OperationResult.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\OperationResult.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\OperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:09:13.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IncomeDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\IncomeDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\IncomeDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\IncomeDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\IncomeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:07:51.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FinancialSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\FinancialSummaryDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\FinancialSummaryDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\FinancialSummaryDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\FinancialSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:08:16.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ExpenseDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\ExpenseDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\ExpenseDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\ExpenseDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\ExpenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:08:04.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\CategoryReportDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\CategoryReportDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\CategoryReportDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\CategoryReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T01:08:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BudgetDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\BudgetDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\BudgetDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\BudgetDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\BudgetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:09:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BudgetAlertDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\BudgetAlertDto.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\DTO\\BudgetAlertDto.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\DTO\\BudgetAlertDto.cs",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\DTO\\BudgetAlertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:09:59.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T23:27:58.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\appsettings.json",
+              "RelativeToolTip": "FinanceFamilyApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T15:14:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\App.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\App.xaml.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAowFwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:13:55.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\App.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\App.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-05T15:13:48.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:47:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\RegisterWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\RegisterWindow.xaml",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-13T00:47:32.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:55:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:47:16.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IncomeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\IncomeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\IncomeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\IncomeWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\IncomeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:12:19.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ExpenseWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\ExpenseWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\ExpenseWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\ExpenseWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\ExpenseWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:16:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EditTransactionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\EditTransactionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\EditTransactionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\EditTransactionWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\EditTransactionWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T02:47:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DateRangeDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\DateRangeDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\DateRangeDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\DateRangeDialog.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\DateRangeDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:00:09.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\CategoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\CategoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\CategoryWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\CategoryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:56:15.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BudgetWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\BudgetWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\BudgetWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:16:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BudgetManagementWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Views\\BudgetManagementWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:11:18.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:12:19.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:46:47.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA3wE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:46:33.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DateRangeDialogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\DateRangeDialogViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\DateRangeDialogViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\DateRangeDialogViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\DateRangeDialogViewModel.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T00:00:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChartsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ChartsViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\ChartsViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\ChartsViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\ChartsViewModel.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAYwE4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T08:28:33.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T13:02:55.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BudgetFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\BudgetFormViewModel.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\ViewModels\\BudgetFormViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\ViewModels\\BudgetFormViewModel.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\ViewModels\\BudgetFormViewModel.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAgwMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:11:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "TypeToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\TypeToColorConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\TypeToColorConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\TypeToColorConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\TypeToColorConverter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:49:12.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:11:51.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RoleToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\RoleToColorConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\RoleToColorConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\RoleToColorConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\RoleToColorConverter.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T22:59:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ComparisonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\ComparisonConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\ComparisonConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\ComparisonConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\ComparisonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:11:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ColorToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\ColorToBrushConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\ColorToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\ColorToBrushConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\ColorToBrushConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:49:29.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BooleanToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BooleanToBrushConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\BooleanToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BooleanToBrushConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\BooleanToBrushConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T20:11:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BalanceToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BalanceToBrushConverter.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Converters\\BalanceToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Converters\\BalanceToBrushConverter.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Converters\\BalanceToBrushConverter.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:24:42.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "FinanceFamilyApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T15:11:33.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FinanceFamilyApp.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\FinanceFamilyApp.csproj",
+              "RelativeDocumentMoniker": "FinanceFamilyApp\\FinanceFamilyApp.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp\\FinanceFamilyApp.csproj",
+              "RelativeToolTip": "FinanceFamilyApp\\FinanceFamilyApp.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T15:27:36.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\VS company\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\VS company\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\VS company\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\VS company\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJIJAAAAAAAAAAAvwKIJAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-13T02:20:26.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FinanceFamilyApp.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj",
+              "RelativeToolTip": "FinanceFamilyApp.BLL\\FinanceFamilyApp.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T23:28:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "FinanceFamilyApp.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj",
+              "RelativeDocumentMoniker": "FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F \u2014 \u043A\u043E\u043F\u0438\u044F\\FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj",
+              "RelativeToolTip": "FinanceFamilyApp.DAL\\FinanceFamilyApp.DAL.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T15:25:18.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

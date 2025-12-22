@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D1BO8wq/4uw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\FinanceFamilyKursovai — копия — копия — копия\\FinanceFamilyApp.Entities\\FinanceFamilyApp.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

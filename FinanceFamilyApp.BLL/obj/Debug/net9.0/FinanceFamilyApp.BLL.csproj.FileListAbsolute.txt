@@ -1,0 +1,288 @@
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\LatoFont\OFL.txt
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceF.ADB0FFBA.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\refint\FinanceFamilyApp.BLL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\FinanceFamilyApp.BLL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.BLL\obj\Debug\net9.0\ref\FinanceFamilyApp.BLL.dll

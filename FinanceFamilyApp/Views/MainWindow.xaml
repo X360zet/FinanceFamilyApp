@@ -1,0 +1,665 @@
+﻿<Window x:Class="FinanceFamilyApp.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:FinanceFamilyApp.Converters"
+        WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        Title="Учет домашных финансов"
+        Background="#f5f5f5">
+
+    <Window.Resources>
+        <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+        <converters:RoleToColorConverter x:Key="RoleToColorConverter"/>
+        <converters:TypeToColorConverter x:Key="TypeToColorConverter"/>
+        <converters:ColorToBrushConverter x:Key="ColorToBrushConverter"/>
+
+        <!-- Общие стили -->
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="Segoe UI"/>
+            <Setter Property="Foreground" Value="#333333"/>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Segoe UI Semibold"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#4CAF50"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="Margin" Value="0,5,0,5"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" 
+                                              VerticalAlignment="Center"
+                                              Margin="10,5"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#45a049"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#3d8b40"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Стиль для кнопок с красным фоном -->
+        <Style TargetType="Button" x:Key="RedButtonStyle" BasedOn="{StaticResource {x:Type Button}}">
+            <Setter Property="Background" Value="#f44336"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#e53935"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#d32f2f"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Стиль для кнопок с синим фоном -->
+        <Style TargetType="Button" x:Key="BlueButtonStyle" BasedOn="{StaticResource {x:Type Button}}">
+            <Setter Property="Background" Value="#2196F3"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#1e88e5"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#1976d2"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Стиль для заголовков -->
+        <Style x:Key="HeaderTextStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Margin" Value="0,0,0,10"/>
+        </Style>
+
+        <!-- Стиль для карточек -->
+        <Style x:Key="CardStyle" TargetType="Border">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="Padding" Value="15"/>
+            <Setter Property="Margin" Value="0,0,0,15"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect ShadowDepth="2" 
+                                      Opacity="0.1" 
+                                      BlurRadius="8"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для статистических карточек -->
+        <Style x:Key="StatCardStyle" TargetType="Border">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="Padding" Value="20,15"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect ShadowDepth="2" 
+                                      Opacity="0.1" 
+                                      BlurRadius="8"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для TabControl -->
+        <Style TargetType="TabControl">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Margin" Value="0"/>
+            <Setter Property="Padding" Value="0"/>
+        </Style>
+
+        <!-- Стиль для TabItem -->
+        <Style TargetType="TabItem">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Padding" Value="15,10"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#666666"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TabItem">
+                        <Grid>
+                            <Border Name="border" 
+                                    Background="Transparent" 
+                                    CornerRadius="8"
+                                    Margin="2">
+                                <ContentPresenter x:Name="ContentSite"
+                                                  VerticalAlignment="Center"
+                                                  HorizontalAlignment="Center"
+                                                  ContentSource="Header"
+                                                  Margin="10,5"/>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#4CAF50"/>
+                                <Setter Property="Foreground" Value="White"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#E8F5E9"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+        <!-- Основной контейнер -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Шапка -->
+        <Border Grid.Row="0" 
+                Background="#4CAF50" 
+                Padding="15,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0">
+                    <TextBlock Text="Учет домашних финансов" 
+                               Foreground="White" 
+                               FontSize="20" 
+                               FontWeight="SemiBold"/>
+                    <TextBlock Text="{Binding WelcomeMessage}" 
+                               Foreground="White" 
+                               FontSize="14"
+                               Margin="0,5,0,0"/>
+                </StackPanel>
+
+                <Button Grid.Column="1" 
+                        Content="Выйти" 
+                        Command="{Binding LogoutCommand}"
+                        Background="#f44336"
+                        Foreground="White"
+                        Padding="15,8"
+                        FontWeight="SemiBold">
+                    <Button.Style>
+                        <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                            <Setter Property="Background" Value="#f44336"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#e53935"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+            </Grid>
+        </Border>
+
+        <!-- Основное содержимое -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- TabControl для навигации -->
+            <TabControl Grid.Row="0" 
+                        Background="Transparent"
+                        Margin="15">
+                <!-- Вкладка 1: Главная -->
+                <TabItem Header="Главная">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <StackPanel Margin="0,10">
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Быстрые действия"
+                   Style="{StaticResource HeaderTextStyle}"/>
+                                    <Button Content="➕ Добавить доход"
+                Command="{Binding AddIncomeCommand}"
+                Style="{StaticResource BlueButtonStyle}"/>
+                                    <Button Content="➖ Добавить расход"
+                Command="{Binding AddExpenseCommand}"
+                Style="{StaticResource RedButtonStyle}"/>
+
+                                    <!-- Кнопка установки бюджета только для администратора -->
+                                    <Button Content="💰 Установить бюджет"
+                Command="{Binding SetBudgetCommand}"
+                Margin="0,5,0,0"
+                Visibility="{Binding CurrentFamilyMember.Role, 
+                         Converter={StaticResource StringToVisibilityConverter}, 
+                         ConverterParameter=Администратор}"/>
+
+                                    <!-- Кнопка управления бюджетами для всех -->
+                                    <Button Content="📊 Управление бюджетами"
+                Command="{Binding ManageBudgetsCommand}"
+                Margin="0,5,0,0"
+                Background="#2196F3"/>
+
+                                    <!-- Кнопки для администратора -->
+                                    <StackPanel Visibility="{Binding CurrentFamilyMember.Role,
+                     Converter={StaticResource StringToVisibilityConverter},
+                     ConverterParameter=Администратор}"
+                    Margin="0,10,0,0">
+                                        <TextBlock FontWeight="SemiBold"
+                       Margin="0,0,0,5" Text="Управление"/>
+                                        <Button Content="📁 Создать категорию доходов"
+                    Command="{Binding CreateIncomeCategoryCommand}"
+                    Background="#9C27B0"/>
+                                        <Button Content="📁 Создать категорию расходов"
+                    Command="{Binding CreateExpenseCategoryCommand}"
+                    Background="#9C27B0"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+                            <!-- Статистика -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Финансовая статистика" 
+                                               Style="{StaticResource HeaderTextStyle}"/>
+
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <!-- Общий доход -->
+                                        <Border Grid.Column="0" Style="{StaticResource StatCardStyle}">
+                                            <StackPanel>
+                                                <TextBlock Text="Общий доход" 
+                                                           Foreground="#666666" 
+                                                           FontSize="12"/>
+                                                <TextBlock Text="{Binding TotalIncome, StringFormat=C}" 
+                                                           Foreground="#4CAF50" 
+                                                           FontSize="24" 
+                                                           FontWeight="Bold"/>
+                                            </StackPanel>
+                                        </Border>
+
+                                        <!-- Общий расход -->
+                                        <Border Grid.Column="1" Style="{StaticResource StatCardStyle}">
+                                            <StackPanel>
+                                                <TextBlock Text="Общий расход" 
+                                                           Foreground="#666666" 
+                                                           FontSize="12"/>
+                                                <TextBlock Text="{Binding TotalExpense, StringFormat=C}" 
+                                                           Foreground="#f44336" 
+                                                           FontSize="24" 
+                                                           FontWeight="Bold"/>
+                                            </StackPanel>
+                                        </Border>
+
+                                        <!-- Сальдо -->
+                                        <Border Grid.Column="2" 
+                                                Style="{StaticResource StatCardStyle}"
+                                                Background="{Binding BalanceColor, Converter={StaticResource ColorToBrushConverter}}">
+                                            <StackPanel>
+                                                <TextBlock Text="Сальдо" 
+                                                           Foreground="#666666" 
+                                                           FontSize="12"/>
+                                                <TextBlock Text="{Binding Balance, StringFormat=C}" 
+                                                           Foreground="#333333" 
+                                                           FontSize="24" 
+                                                           FontWeight="Bold"/>
+                                            </StackPanel>
+                                        </Border>
+                                    </Grid>
+                                </StackPanel>
+                            </Border>
+
+                            <!-- Последние транзакции -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Последние транзакции" 
+                                               Style="{StaticResource HeaderTextStyle}"/>
+
+                                    <ListView ItemsSource="{Binding RecentTransactions}"
+                                              Background="Transparent"
+                                              BorderThickness="0"
+                                              MaxHeight="400">
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <Border Background="White" 
+                                                        CornerRadius="8" 
+                                                        Margin="0,0,0,8"
+                                                        Padding="10">
+                                                    <Grid>
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="*"/>
+                                                            <ColumnDefinition Width="Auto"/>
+                                                        </Grid.ColumnDefinitions>
+
+                                                        <StackPanel Grid.Column="0">
+                                                            <TextBlock Text="{Binding Date, StringFormat='dd.MM.yyyy'}"
+                                                                       Foreground="#666666"
+                                                                       FontSize="12"/>
+                                                            <TextBlock Text="{Binding Category}"
+                                                                       FontWeight="SemiBold"/>
+                                                            <TextBlock Text="{Binding Description}"
+                                                                       Foreground="#666666"
+                                                                       TextWrapping="Wrap"/>
+                                                        </StackPanel>
+
+                                                        <StackPanel Grid.Column="1" 
+                                                                    HorizontalAlignment="Right">
+                                                            <TextBlock Text="{Binding Amount, StringFormat=C}"
+                                                                       Foreground="{Binding Type, Converter={StaticResource TypeToColorConverter}}"
+                                                                       FontWeight="Bold"/>
+                                                            <Button Content="✏️"
+                                                                    Command="{Binding DataContext.EditTransactionCommand, 
+                                                                             RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                                                                    CommandParameter="{Binding}"
+                                                                    Background="Transparent"
+                                                                    Foreground="#2196F3"
+                                                                    FontSize="16"
+                                                                    Padding="5"
+                                                                    Margin="0,5,0,0">
+                                                                <Button.Template>
+                                                                    <ControlTemplate TargetType="Button">
+                                                                        <Border Background="Transparent"
+                                                                                CornerRadius="4">
+                                                                            <ContentPresenter HorizontalAlignment="Center" 
+                                                                                              VerticalAlignment="Center"/>
+                                                                        </Border>
+                                                                    </ControlTemplate>
+                                                                </Button.Template>
+                                                            </Button>
+                                                        </StackPanel>
+                                                    </Grid>
+                                                </Border>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+
+                                        <ListView.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <StackPanel Orientation="Vertical"/>
+                                            </ItemsPanelTemplate>
+                                        </ListView.ItemsPanel>
+                                    </ListView>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem>
+
+                <!-- Вкладка 2: Отчеты -->
+                <TabItem Header="Отчеты">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <StackPanel Margin="0,10">
+                            <!-- Параметры отчета -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Параметры отчета" 
+                                               Style="{StaticResource HeaderTextStyle}"/>
+
+                                    <!-- Период отчета -->
+                                    <Grid Margin="0,0,0,15">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+
+                                        <!-- Начальная дата -->
+                                        <StackPanel Grid.Row="0" Margin="0,0,0,10">
+                                            <TextBlock Text="Начальная дата" 
+                                                       Margin="0,0,0,5"/>
+                                            <DatePicker SelectedDate="{Binding ReportStartDate}"
+                                                         FontSize="14"
+                                                         Padding="10"/>
+                                        </StackPanel>
+
+                                        <!-- Конечная дата -->
+                                        <StackPanel Grid.Row="1">
+                                            <TextBlock Text="Конечная дата" 
+                                                       Margin="0,0,0,5"/>
+                                            <DatePicker SelectedDate="{Binding ReportEndDate}"
+                                                         FontSize="14"
+                                                         Padding="10"/>
+                                        </StackPanel>
+                                    </Grid>
+
+                                    <!-- Фильтры -->
+                                    <Border Background="#f9f9f9" 
+                                            CornerRadius="8" 
+                                            Padding="15"
+                                            Margin="0,0,0,15">
+                                        <StackPanel>
+                                            <TextBlock Text="Фильтры" 
+                                                       FontWeight="SemiBold"
+                                                       Margin="0,0,0,10"/>
+
+                                            <!-- Фильтр по типу операции -->
+                                            <StackPanel Margin="0,0,0,10">
+                                                <TextBlock Text="Тип операции" 
+                                                           Margin="0,0,0,5"/>
+                                                <ComboBox ItemsSource="{Binding OperationTypeFilters}"
+                                                          SelectedItem="{Binding SelectedOperationTypeFilter}"
+                                                          FontSize="14"
+                                                          Padding="10"/>
+                                            </StackPanel>
+
+                                            <!-- Фильтр по категории -->
+                                            <StackPanel>
+                                                <TextBlock Text="Категория" 
+                                                           Margin="0,0,0,5"/>
+                                                <ComboBox ItemsSource="{Binding CategoryFilters}"
+                                                          SelectedItem="{Binding SelectedCategoryFilter}"
+                                                          FontSize="14"
+                                                          Padding="10"/>
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </Border>
+
+                                    <!-- Кнопки -->
+                                    <StackPanel Orientation="Horizontal" 
+                                                HorizontalAlignment="Center"
+                                                Margin="0,10,0,0">
+                                        <Button Content="📊 Сформировать отчет" 
+                                                Command="{Binding GenerateReportCommand}"
+                                                Style="{StaticResource BlueButtonStyle}"
+                                                Width="189" Height="39"/>
+
+                                        <Button Content="📄 Экспорт в PDF" 
+                                                Command="{Binding ExportToPdfCommand}"
+                                                Margin="10,0,0,0"
+                                                Width="150"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Border>
+
+                            <!-- Результаты отчета -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Результаты отчета"
+                   Style="{StaticResource HeaderTextStyle}"/>
+
+                                    <!-- Заменяем ListView с GridView на DataGrid -->
+                                    <DataGrid ItemsSource="{Binding FilteredReportData}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  Background="Transparent"
+                  BorderThickness="0"
+                  MaxHeight="500"
+                  HeadersVisibility="Column">
+                                        <DataGrid.Columns>
+                                            <DataGridTextColumn Header="Дата" 
+                                    Binding="{Binding Date, StringFormat='dd.MM.yyyy'}" 
+                                    Width="100"/>
+                                            <DataGridTextColumn Header="Тип" 
+                                    Binding="{Binding OperationType}" 
+                                    Width="80"/>
+                                            <DataGridTextColumn Header="Категория" 
+                                    Binding="{Binding Category}" 
+                                    Width="120"/>
+                                            <DataGridTextColumn Header="Сумма" 
+                                    Binding="{Binding Amount, StringFormat=C}" 
+                                    Width="100"/>
+                                            <DataGridTextColumn Header="Описание" 
+                                    Binding="{Binding Description}" 
+                                    Width="200"/>
+                                        </DataGrid.Columns>
+                                    </DataGrid>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem>
+
+                <!-- Вкладка 3: Семья -->
+                <TabItem Header="Семья">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <StackPanel Margin="0,10">
+                            <!-- Управление -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <TextBlock Text="Члены семьи" 
+                                               Style="{StaticResource HeaderTextStyle}"/>
+
+                                    <Button Content="➕ Добавить члена семьи" 
+                                            Command="{Binding AddFamilyMemberCommand}"
+                                            Style="{StaticResource BlueButtonStyle}"/>
+                                </StackPanel>
+                            </Border>
+
+                            <!-- Список членов семьи -->
+                            <Border Style="{StaticResource CardStyle}">
+                                <StackPanel>
+                                    <ListView ItemsSource="{Binding FamilyMembers}"
+                  Background="Transparent"
+                  BorderThickness="0">
+                                        <ListView.ItemTemplate>
+                                            <DataTemplate>
+                                                <Border Background="White"
+                            CornerRadius="8"
+                            Margin="0,0,0,8"
+                            Padding="15">
+                                                    <Grid>
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="Auto"/>
+                                                            <ColumnDefinition Width="*"/>
+                                                            <ColumnDefinition Width="Auto"/>
+                                                            <ColumnDefinition Width="Auto"/>
+                                                        </Grid.ColumnDefinitions>
+
+                                                        <!-- Аватар -->
+                                                        <Border Grid.Column="0"
+                                    Width="40"
+                                    Height="40"
+                                    Background="#4CAF50"
+                                    CornerRadius="20"
+                                    Margin="0,0,15,0">
+                                                            <TextBlock Text="{Binding User.Username, StringFormat={}{0:0}}"
+                                           Foreground="White"
+                                           FontSize="16"
+                                           FontWeight="Bold"
+                                           HorizontalAlignment="Center"
+                                           VerticalAlignment="Center"/>
+                                                        </Border>
+
+                                                        <!-- Информация -->
+                                                        <StackPanel Grid.Column="1">
+                                                            <TextBlock Text="{Binding User.Username}"
+                                           FontWeight="SemiBold"/>
+                                                            <TextBlock Text="{Binding Role}"
+                                           Foreground="#666666"
+                                           FontSize="12"/>
+                                                            <TextBlock Text="{Binding CreatedDate, StringFormat='Добавлен: dd.MM.yyyy'}"
+                                           Foreground="#999999"
+                                           FontSize="11"/>
+                                                        </StackPanel>
+
+                                                        <!-- Роль -->
+                                                        <Border Grid.Column="2"
+                                    Background="{Binding Role, Converter={StaticResource RoleToColorConverter}}"
+                                    CornerRadius="4"
+                                    Padding="8,4"
+                                    Margin="0,0,10,0">
+                                                            <TextBlock Text="{Binding Role}"
+                                           Foreground="White"
+                                           FontSize="11"/>
+                                                        </Border>
+
+                                                        <!-- Кнопка редактирования (только для администратора) -->
+                                                        <Button Grid.Column="3"
+                                    Content="✏️"
+                                    Command="{Binding DataContext.EditFamilyMemberCommand, 
+                                             RelativeSource={RelativeSource AncestorType={x:Type Window}}}"
+                                    CommandParameter="{Binding}"
+                                    Background="Transparent"
+                                    Foreground="#2196F3"
+                                    FontSize="16"
+                                    Padding="5"
+                                    ToolTip="Редактировать">
+                                                            <Button.Style>
+                                                                <Style TargetType="Button">
+                                                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                                                    <Style.Triggers>
+                                                                        <DataTrigger Binding="{Binding DataContext.IsAdmin, 
+                                                             RelativeSource={RelativeSource AncestorType={x:Type Window}}}" 
+                                                         Value="True">
+                                                                            <Setter Property="Visibility" Value="Visible"/>
+                                                                        </DataTrigger>
+                                                                    </Style.Triggers>
+                                                                </Style>
+                                                            </Button.Style>
+                                                        </Button>
+                                                    </Grid>
+                                                </Border>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+                                        <ListView.ItemsPanel>
+                                            <ItemsPanelTemplate>
+                                                <StackPanel Orientation="Vertical"/>
+                                            </ItemsPanelTemplate>
+                                        </ListView.ItemsPanel>
+                                    </ListView>
+                                </StackPanel>
+                            </Border>
+                        </StackPanel>
+                    </ScrollViewer>
+                </TabItem>
+            </TabControl>
+
+            <!-- Нижняя панель с информацией -->
+            <Border Grid.Row="1" 
+                    Background="White" 
+                    Padding="15,10"
+                    BorderThickness="1,0,0,0"
+                    BorderBrush="#e0e0e0">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Grid.Column="0" 
+                               Text="{Binding CurrentFamilyMember.Role, StringFormat='Роль: {0}'}"
+                               Foreground="#666666"
+                               VerticalAlignment="Center"/>
+
+                    <TextBlock Grid.Column="1" 
+                               Foreground="#999999"
+                               FontSize="12"
+                               VerticalAlignment="Center"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

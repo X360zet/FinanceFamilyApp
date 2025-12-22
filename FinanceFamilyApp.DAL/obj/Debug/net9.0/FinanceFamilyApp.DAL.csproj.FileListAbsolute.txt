@@ -1,0 +1,136 @@
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.runtimeconfig.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceF.EC67A129.Up2Date
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\refint\FinanceFamilyApp.DAL.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\FinanceFamilyApp.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.DAL\obj\Debug\net9.0\ref\FinanceFamilyApp.DAL.dll

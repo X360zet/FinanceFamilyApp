@@ -1,0 +1,96 @@
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2)\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyApp — копия (2) — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.deps.json
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\bin\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.AssemblyInfo.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\refint\FinanceFamilyApp.Entities.dll
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\FinanceFamilyApp.Entities.pdb
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp.Entities\obj\Debug\net9.0\ref\FinanceFamilyApp.Entities.dll

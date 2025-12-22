@@ -1,0 +1,20 @@
+﻿FinanceFamilyApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp\obj\Debug\net9.0-windows\
+FinanceFamilyApp
+none
+false
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\user\source\repos\FinanceFamilyKursovai — копия — копия — копия\FinanceFamilyApp\App.xaml
+11-1481399244
+2323973484
+40-494008873
+256-610436713
+Views\BudgetManagementWindow.xaml;Views\BudgetWindow.xaml;Views\CategoryWindow.xaml;Views\DateRangeDialog.xaml;Views\EditTransactionWindow.xaml;Views\ExpenseWindow.xaml;Views\FamilyMemberWindow.xaml;Views\IncomeWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\RegisterWindow.xaml;
+
+False
+
